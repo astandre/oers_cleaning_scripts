@@ -1,4 +1,4 @@
-train/train/data.csv
+sql/*.*
 .vscode
 .idea/*.*
 

@@ -1,0 +1,5 @@
+mysqlclient
+jupyter
+PyMySQL
+Scrapy
+SQLAlchemy
